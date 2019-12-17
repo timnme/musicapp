@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <!--Search fragment-->
+    <string name="msg_search">Search For Albums</string>
+    <string name="hint_search">Search query…</string>
+    <string name="btn_text_search">Search</string>
+    <string name="msg_empty_query">Specify your query</string>
+    <string name="msg_no_albums">No Albums Found</string>
+    <!--Album info fragment-->
+    <string name="title_author">Author: %s</string>
+    <string name="title_album">Album: %s</string>
+    <string name="title_song">%s. %s</string>
+    <string name="cont_desc_album_image">Album image</string>
+    <string name="msg_no_songs">No Songs In the Album</string>
+
+    <string name="error">Error occurred</string>
+</resources>
